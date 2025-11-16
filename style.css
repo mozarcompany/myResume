@@ -10,8 +10,6 @@
     width: 100%;
     display: flex;
     flex-direction: row;
-    scrollbar-width: none;
-    
 }
 
 .left-side{
